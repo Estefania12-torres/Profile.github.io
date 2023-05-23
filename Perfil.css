@@ -1,0 +1,69 @@
+body{
+    background-color: white;
+    align-items: center;
+}
+
+.avatar{
+    width: 265px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.header{
+    text-align: left;
+    height: 300px;
+    padding: 5px;
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-simple-light-blue-solid-background-colorbluelight-bluesolid-backgroundposter-image_49644.jpg);
+    width: 275px;
+}
+
+.user-name{
+    font-size: 18px;
+    margin-top: 14px;
+}
+
+.icon{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-size: cover;
+}
+.email{
+    background-image: url(https://cdn-icons-png.flaticon.com/512/3296/3296467.png);
+}
+
+.about{
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+
+}
+.about h2{
+    color: #545454;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.about p{
+    color: #545454;
+    font-size: 20px;
+    line-height: 1.5;
+}
+.text{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color:    #808080;
+    font-size: 20px;
+    line-height: 1.5;
+
+}
+.uml{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color:black;
+    font-size: 20px;
+    line-height: 1.5;
+    margin-left: 1500px;
+
+
+}
